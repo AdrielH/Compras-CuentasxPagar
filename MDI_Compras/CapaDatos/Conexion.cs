@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Data.Odbc;
 namespace CapaDatos
 {
-    class Conexion
+    public class Conexion
     {
         OdbcConnection conexion;
 

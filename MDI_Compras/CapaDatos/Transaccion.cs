@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace CapaDatos
 {
-    class Transaccion
+    public class Transaccion
     {
         public void insertarDatos(params string[] sSentencia)
         {

@@ -4,11 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Odbc;
+using System.Windows.Forms;
+using CapaDatos.Transaccion;
 
-namespace CapaControl
+namespace CapaControl.Conexion
 {
-    class AddProveedor
+    public class AddProveedor
     {
-
+       
     }
 }
