@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace MDI_Compras
 {
-    public partial class Frm_Compras : Form
+    public partial class Compras : Form
     {
-        public Frm_Compras()
+        public Compras()
         {
             InitializeComponent();
         }
